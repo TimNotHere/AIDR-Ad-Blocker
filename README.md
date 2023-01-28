@@ -4,10 +4,10 @@
 # Install
 Since this add-on is not available through the Chrome Web Store (as of now),
 
-1st, Download the file.
+* 1st, Download the file.
 
-2nd, switch on developer mode.
+* 2nd, switch on developer mode.
 
-3rd, open the file.
+* 3rd, open the file.
 
-Enjoy ad-free browsing!
+* Enjoy ad-free browsing!
