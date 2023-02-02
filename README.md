@@ -14,4 +14,4 @@ Since this add-on is not available through the Chrome Web Store (as of now),
 
 # Like AIDR? Buy Me A Coffee
 
-* Help fund AIDR by buying me a coffee at: https://www.buymeacoffee.com/NotTimNotHere
+* Help fund AIDR by [buying me a coffee ☕️](https://www.buymeacoffee.com/NotTimNotHere)
