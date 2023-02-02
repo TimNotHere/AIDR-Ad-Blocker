@@ -11,3 +11,7 @@ Since this add-on is not available through the Chrome Web Store (as of now),
 * 3rd, open the file.
 
 * Enjoy ad-free browsing!
+
+# Like AIDR? Buy Me A Coffee
+
+* Buy me a coffee at: https://www.buymeacoffee.com/NotTimNotHere?new=1
