@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "AIDR",
     "description": "This extension blocks ads on websites to improve user experience.",
-    "version": "1.1",
+    "version": "1.0",
     "permissions": ["webRequest", "webRequestBlocking", "*://*/*"],
     "icons": {
         "128": "icon128.png"
