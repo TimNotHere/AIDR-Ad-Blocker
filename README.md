@@ -3,6 +3,7 @@
 [![License MIT](https://user-images.githubusercontent.com/102999216/216479899-5acf037b-8be8-44f8-9353-b633dc1c4113.svg)](LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/NotTimNotHere?style=social)](https://twitter.com/nottimnothere)
 [![GitHub manifest version](https://img.shields.io/github/manifest-json/v/TimNotHere/AIDR-Ad-Blocker)](manifest.json)
+![GitHub Repo stars](https://img.shields.io/github/stars/TimNotHere/AIDR-Ad-Blocker?style=social)
 
 * 97% of adverts are blocked with the best ad blocker for Google Chrome.
 # Install
