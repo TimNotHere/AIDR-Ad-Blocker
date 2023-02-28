@@ -1,19 +1,18 @@
 {
-  "manifest_version": 3,
-  "name": "AIDR",
-  "description": "This extension blocks ads on websites to improve user experience.",
-  "version": "2.0",
-  "permissions": ["webRequest", "<all_urls>"],
-  "icons": {
-      "128": "icon128.png"
-  },
-  "action": {
-      "default_icon": {
-          "128": "icon128.png"
-      }
-  },
-  "background": {
-    "service_worker": "background.js",
-    "type": "module"
-  }
+    "manifest_version": 2,
+    "name": "AIDR",
+    "description": "This extension blocks ads on websites to improve user experience.",
+    "version": "1.0",
+    "permissions": ["webRequest", "webRequestBlocking", "*://*/*"],
+    "icons": {
+        "128": "icon128.png"
+    },
+    "browser_action": {
+        "default_icon": {
+            "128": "icon128.png"
+        }
+    },
+    "background": {
+        "scripts": ["block.js", "background.js"]
+    }
 }
