@@ -7,7 +7,6 @@
 
 * [97% of adverts are blocked](https://d3ward.github.io/toolz/adblock.html) with the best ad blocker for Google Chrome.
 # Install
-Since this add-on is not available through the Chrome Web Store (as of now),
 
 * 1st, Download the file.
 
