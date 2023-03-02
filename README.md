@@ -5,7 +5,7 @@
 [![GitHub manifest version](https://img.shields.io/github/manifest-json/v/TimNotHere/AIDR-Ad-Blocker)](manifest.json)
 ![GitHub Repo stars](https://img.shields.io/github/stars/TimNotHere/AIDR-Ad-Blocker?style=social)
 
-* [97% of adverts are blocked](https://d3ward.github.io/toolz/adblock.html) with the best ad blocker for Google Chrome.
+* 97% of adverts are blocked with the best ad blocker for Google Chrome.
 # Install
 
 * 1st, Download the file.
